@@ -39,3 +39,4 @@ Resolution: {resolucion_pixels} pixels.
 # 6. Muestra el prompt generado
 print("Tu prompt generado para DALL·E es:")
 print(prompt)
+# quiero una tarjeta de cumpleaños con tematica de pokemon, un fondo color amarillo electrico, con una torta en medio con forma de pokeball, que el titulo con la fuente de la serie pokemon diga "feliz cumpleaños", con marcos color plateados y de fondo truenos pequeños en color negro
